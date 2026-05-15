@@ -1,0 +1,8 @@
+
+track	model	clean_accuracy	level5_accuracy	accuracy_drop
+0	Baseline	EfficientNet-B0	88.123752	53.692615	34.431138
+1	Baseline	ResNet-50	86.726547	66.966068	19.760479
+2	Baseline	ViT-B/16	80.039920	59.680639	20.359281
+3	Robust	EfficientNet-B0	81.037924	63.572854	17.465070
+4	Robust	ResNet-50	77.844311	57.085828	20.758483
+5	Robust	ViT-B/16	72.255489	64.770459	7.485030
